@@ -28,6 +28,6 @@ A modern Android Business Card application built using **Kotlin** and **Jetpack 
 
 ## 👨🏾‍💻 Author
 
-**Ameh Sunday**  
-Full Stack Developer  
+**Zubairu Dalhatu**  
+Mobile Developer  
 Nigeria 🇳🇬
